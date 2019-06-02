@@ -28,5 +28,5 @@ Requirements:
   Guide:
   
   1. You start the game by typing 'python monsterHunter.py' in the terminal.
-  2. From here on, you should be able to see yourself, the player, on a 4x5 squared field.
+  2. From here on, you should be able to see yourself, the player, on a 5x4 squared field.
   3. 
